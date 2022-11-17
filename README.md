@@ -9,7 +9,7 @@ Skills: C/C++/Dart/Java/ Andorid Development/ Flutter
 - 🌱 I’m currently learning Dart and Flutter 
 - 👯 I’m looking to collaborate on github   
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate flutter developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurnabimiah&label=Profile%20views&color=0e75b6&style=flat" alt="nurnabimiah" /> </p>
 
