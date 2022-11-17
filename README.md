@@ -9,6 +9,8 @@ I love to solve problems using technology that improves user’s life on a major
 - 📫 How to reach me. 
 - by mail: md.nurnabimiah5@gmail.com
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+flutter+developer+from+Bangladesh)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurnabimiah&label=Profile%20views&color=0e75b6&style=flat" alt="nurnabimiah" /> </p>
