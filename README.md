@@ -3,9 +3,13 @@
 
 I love to solve problems using technology that improves user’s life on a major scale. Over the last 1.5 years, I have been developing and leading various mobile apps in different area using framwork  
 
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Dart and Flutter   
+- 🌱 I’m currently learning Competitive Programming.
 - 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning Dart and Flutter 
-- 👯 I’m looking to collaborate on github   
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me. 
+- by mail: md.nurnabimiah5@gmail.com
 
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 
