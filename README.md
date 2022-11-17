@@ -15,7 +15,7 @@ I love to solve problems using technology that improves user’s life on a major
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/www.youtube.com/channel/UC97KP23OnIsvbC8SwlJGNCA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayon ahmed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/channel/nayon ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayon ahmed" height="30" width="40" /></a>
 </p>
 
 
