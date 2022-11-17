@@ -3,8 +3,6 @@
 
 I love to solve problems using technology that improves user’s life on a major scale. Over the last 1.5 years, I have been developing and leading various mobile apps in different area using framwork  
 
-Skills: C/C++/Dart/Java/ Andorid Development/ Flutter
-
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Dart and Flutter 
 - 👯 I’m looking to collaborate on github   
@@ -17,7 +15,7 @@ Skills: C/C++/Dart/Java/ Andorid Development/ Flutter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/nayon ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayon ahmed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UC97KP23OnIsvbC8SwlJGNCA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayon ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
