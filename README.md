@@ -9,8 +9,7 @@ I love to solve problems using technology that improves user’s life on a major
 - 📫 How to reach me. 
 - by mail: md.nurnabimiah5@gmail.com
 
-
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF161E&background=FF44C900&center=true&width=435&lines=A+passionate+flutter+developer+from+Bangladesh)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF161E&background=FF44C900&center=true&width=435&lines=%E0%A6%AF%E0%A6%BE%E0%A6%B0+%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BE+%E0%A6%86%E0%A6%B0+%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE+%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%87+%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC+%E0%A6%A4%E0%A6%BE%E0%A6%B0+%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87+%E0%A6%B8%E0%A7%8C%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BE%E0%A6%A8+%E0%A6%86%E0%A6%B0+%E0%A6%95%E0%A7%87+%E0%A6%B9%E0%A6%A4%E0%A7%87+%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%3F)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 
