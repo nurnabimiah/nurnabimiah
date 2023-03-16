@@ -1,7 +1,5 @@
 
-
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nurnabi</h1> -->
-<img src="https://i.ibb.co/SXXjpL4/header.png">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+1+Year+Experience)](https://git.io/typing-svg)
 
 ### Hi there 👋, I am Md. Nurnabi Miah 
 
