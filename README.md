@@ -1,6 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+1+Year+Experience)](https://git.io/typing-svg)
-
 ### Hi there 👋, I am Md. Nurnabi Miah 
 
 I love to solve problems using technology that improves user’s life on a major scale. Over the last 1.5 years, I have been developing and leading various mobile apps in different area using framwork  
@@ -12,7 +10,7 @@ I love to solve problems using technology that improves user’s life on a major
 - 📫 How to reach me. 
 - by mail: md.nurnabimiah5@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+1+Year+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+1+Year+Experience)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 <div>
