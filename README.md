@@ -10,7 +10,7 @@ I love to solve problems using technology that improves user’s life on a major
 - 📫 How to reach me. 
 - by mail: md.nurnabimiah5@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+1+Year+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+1.5+Year+Experience)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 <div>
