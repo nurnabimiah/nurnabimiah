@@ -15,10 +15,6 @@ I love to solve problems using technology that improves user’s life on a major
         <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+1.5+Year+Experience" alt="Typing SVG" />
     </a>
 </div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+1.5+Year+Experience)](https://git.io/typing-svg)
-
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
