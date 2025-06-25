@@ -12,7 +12,7 @@ I love to solve problems using technology that improves user’s life on a major
 
   <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+1.5+Year+Experience" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=E32244&background=FF30E600&center=true&width=435&lines=+2.5+Year+Experience" alt="Typing SVG" />
     </a>
 </div>
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
