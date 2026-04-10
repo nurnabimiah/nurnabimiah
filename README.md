@@ -8,7 +8,7 @@ I love to solve problems using technology that improves user’s life on a major
 - 🔭 I’m currently working on Youtube 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me. 
-- by mail: md.nurnabimiah5@gmail.com
+- by mail: md.nurnabimiah23@gmail.com
 
   <div align="center">
     <a href="https://git.io/typing-svg">
