@@ -1,6 +1,6 @@
 <div align="center">
 
-# Md. Nurnabi Miah
+# Md Nurnabi Miah
 
 ### Senior Flutter Developer · Mobile Application Developer
 
