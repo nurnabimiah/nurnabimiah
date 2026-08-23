@@ -9,7 +9,7 @@ Building scalable, maintainable, and production-ready applications for Android a
 <br />
 
 [LinkedIn](https://linkedin.com/in/mdnurnabimiah) ·
-[Stack Overflow](https://stackoverflow.com/users/20526892) ·
+[YouTube](https://www.youtube.com/@nayon_ahmed) ·
 [Email](mailto:md.nurnabimiah23@gmail.com)
 
 </div>
@@ -87,25 +87,6 @@ Currently, I am expanding my work beyond mobile development and actively working
 
 ---
 
-## Technologies
-
-**Mobile Development**
-
-`Flutter` · `Dart` · `Android` · `iOS`
-
-**Backend**
-
-`Python` · `FastAPI` · `REST APIs` · `MySQL` · `SQLite`
-
-**Services & Integrations**
-
-`Firebase` · `Authentication` · `Payment Systems` · `Subscriptions` · `Third-Party APIs`
-
-**Tools**
-
-`Git` · `GitHub` · `Postman` · `Figma`
-
----
 
 ## Currently Working On
 
@@ -115,20 +96,6 @@ Currently, I am expanding my work beyond mobile development and actively working
 - Exploring scalable system design and mobile-backend integration.
 
 ---
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nurnabimiah&show_icons=true&hide_border=true&count_private=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurnabimiah&layout=compact&hide_border=true" height="165" />
-
-</div>
-
----
-
-<div align="center">
 
 ### Let's build something meaningful.
 
