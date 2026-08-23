@@ -36,7 +36,7 @@ Currently, I am expanding my work beyond mobile development and actively working
 |---|---|---|
 | **Instructor** | Bdapps (Robi) | Apr 2026 – Present |
 | **Senior Flutter Developer** | Softvence Agency | Oct 2024 – Present |
-| **Flutter Developer** | ePoll | Mar 2024 – Oct 2024 |
+| **Flutter Developer** | ePolli | Mar 2024 – Oct 2024 |
 | **Jr. Flutter Developer** | Excel IT AI LTD | Apr 2023 – Mar 2024 |
 | **Flutter Developer Intern** | Clipping World Ltd. | Jan 2023 – Apr 2023 |
 
@@ -83,7 +83,7 @@ Currently, I am expanding my work beyond mobile development and actively working
 |---|---|---|
 | **BSc in Computer Science & Engineering** | Daffodil International University | 2021 |
 | **Higher Secondary Certificate (HSC)** | Borochowna Kutubpur College | 2016 |
-| **Secondary School Certificate (SSC)** | Sakhipur P.M. Pilot Model School | 2013 |
+| **Secondary School Certificate (SSC)** | Sakhipur P.M. Pilot Model School | 2014 |
 
 ---
 
